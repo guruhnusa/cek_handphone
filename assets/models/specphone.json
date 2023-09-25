@@ -1,0 +1,290 @@
+{
+  "brand": "Acer",
+  "phone_name": "Chromebook Tab 10",
+  "thumbnail": "https://fdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg",
+  "phone_images": [
+    "https://fdn2.gsmarena.com/vv/pics/acer/acer-chromebook-tab-10-D651N-1.jpg",
+    "https://fdn2.gsmarena.com/vv/pics/acer/acer-chromebook-tab-10-D651N-2.jpg"
+  ],
+  "release_date": "Released 2018, July",
+  "dimension": "544.3g, 9.9mm thickness",
+  "os": "Chrome OS",
+  "storage": "32GB storage, microSDXC",
+  "specifications": [
+    {
+      "title": "Network",
+      "specs": [
+        {
+          "key": "Technology",
+          "val": [
+            "No cellular connectivity"
+          ]
+        },
+        {
+          "key": "2G bands",
+          "val": [
+            " N/A"
+          ]
+        },
+        {
+          "key": "GPRS",
+          "val": [
+            "No"
+          ]
+        },
+        {
+          "key": "EDGE",
+          "val": [
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Launch",
+      "specs": [
+        {
+          "key": "Announced",
+          "val": [
+            "2018, March"
+          ]
+        },
+        {
+          "key": "Status",
+          "val": [
+            "Available. Released 2018, July"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Body",
+      "specs": [
+        {
+          "key": "Dimensions",
+          "val": [
+            "238.3 x 172.2 x 9.9 mm (9.38 x 6.78 x 0.39 in)"
+          ]
+        },
+        {
+          "key": "Weight",
+          "val": [
+            "544.3 g (1.20 lb)"
+          ]
+        },
+        {
+          "key": "SIM",
+          "val": [
+            "No"
+          ]
+        },
+        {
+          "key": "Other",
+          "val": [
+            "Stylus"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Display",
+      "specs": [
+        {
+          "key": "Type",
+          "val": [
+            "IPS LCD"
+          ]
+        },
+        {
+          "key": "Size",
+          "val": [
+            "9.7 inches, 291.4 cm2 (~71.0% screen-to-body ratio)"
+          ]
+        },
+        {
+          "key": "Resolution",
+          "val": [
+            "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Platform",
+      "specs": [
+        {
+          "key": "OS",
+          "val": [
+            "Chrome OS"
+          ]
+        },
+        {
+          "key": "Chipset",
+          "val": [
+            "Rockchip RK3399"
+          ]
+        },
+        {
+          "key": "CPU",
+          "val": [
+            "Hexa-core (4x Cortex-A53 & 2x Cortex-A72)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Memory",
+      "specs": [
+        {
+          "key": "Card slot",
+          "val": [
+            "microSDXC (dedicated slot)"
+          ]
+        },
+        {
+          "key": "Internal",
+          "val": [
+            "32GB 4GB RAM"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Main Camera",
+      "specs": [
+        {
+          "key": "Single",
+          "val": [
+            "5 MP"
+          ]
+        },
+        {
+          "key": "Video",
+          "val": [
+            "720p"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Selfie camera",
+      "specs": [
+        {
+          "key": "Single",
+          "val": [
+            "2 MP"
+          ]
+        },
+        {
+          "key": "Video",
+          "val": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sound",
+      "specs": [
+        {
+          "key": "Loudspeaker",
+          "val": [
+            "Yes, with stereo speakers"
+          ]
+        },
+        {
+          "key": "3.5mm jack",
+          "val": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comms",
+      "specs": [
+        {
+          "key": "WLAN",
+          "val": [
+            "Wi-Fi 802.11 b/g/n/ac, dual-band, Wi-Fi Direct"
+          ]
+        },
+        {
+          "key": "Bluetooth",
+          "val": [
+            "4.1, A2DP, LE"
+          ]
+        },
+        {
+          "key": "Positioning",
+          "val": [
+            ""
+          ]
+        },
+        {
+          "key": "NFC",
+          "val": [
+            "No"
+          ]
+        },
+        {
+          "key": "Radio",
+          "val": [
+            "No"
+          ]
+        },
+        {
+          "key": "USB",
+          "val": [
+            "USB Type-C 3.1"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Features",
+      "specs": [
+        {
+          "key": "Sensors",
+          "val": [
+            "Accelerometer"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Battery",
+      "specs": [
+        {
+          "key": "Type",
+          "val": [
+            "Li-Po 4500 mAh, non-removable (34 Wh)"
+          ]
+        },
+        {
+          "key": "Talk time",
+          "val": [
+            "Up to 9 h (multimedia)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Misc",
+      "specs": [
+        {
+          "key": "Colors",
+          "val": [
+            "Black, Blue"
+          ]
+        },
+        {
+          "key": "Price",
+          "val": [
+            "About 330 EUR"
+          ]
+        }
+      ]
+    }
+  ]
+}
